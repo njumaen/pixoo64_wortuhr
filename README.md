@@ -8,4 +8,4 @@ wortuhr.py: error: the following arguments are required: --ip
 
 ---
 
-same syntax with wordclock_en.py
+same syntax with pixoo64_wordclock_en.py
