@@ -1,4 +1,4 @@
-python3 wortuhr.py 
+python3 pixoo64_wortuhr.py 
 
 usage: wortuhr.py [-h] --ip IP [--port PORT] [--fg R G B] [--dim R G B] [--bg R G B] [--dot R G B]
                   [--brightness BRIGHTNESS] [--interval INTERVAL] [--once]
