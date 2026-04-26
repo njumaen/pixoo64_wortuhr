@@ -17,3 +17,7 @@ wortuhr.py: error: the following arguments are required: --ip
 ---
 
 same syntax with pixoo64_wordclock_en.py
+
+---
+
+or try ESP32 versions via ArduinoIDE
